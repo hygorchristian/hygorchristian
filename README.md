@@ -6,7 +6,7 @@
 - 🐶 I have developed a social app to adopt and find lost pets [Findog](https://findog.com.br)
 - 📖 I'm currently learning everything 🤣
 - 🏆 2021 Goals: Contribute more to Open Source projects
-- 🎬 I love movies and tv shows, here you can see all movies and show I've watched [Movies](https://movies.hygorchristian.com)
+- 🎬 I love movies and tv shows, here you can see [all movies and shows](https://movies.hygorchristian.com) I've watched 
 - 🤩 Fun fact: I love to draw, cook and play guitar / piano
 
 ### Connect with me:
