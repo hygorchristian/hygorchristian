@@ -71,8 +71,8 @@
 
 ### Nice projects I've done
 
-[<img align="left" alt="Styled Components" width="300px" src="https://www.hygorchristian.com/static/183ed03c6a6a6e283db423f1082659b8/thumbnail_361664e240.jpg" />](https://spotify.hygorchristian.com)
-[<img align="left" alt="Styled Components" width="300px" src="https://www.hygorchristian.com/static/9995926009e2b2f1ae802a6413a1d9c5/findog_be9406992b.jpg" />](https://findog.com.br)
+[<img align="left" alt="Styled Components" height="200px" src="https://www.hygorchristian.com/static/183ed03c6a6a6e283db423f1082659b8/thumbnail_361664e240.jpg" />](https://spotify.hygorchristian.com)
+[<img align="left" alt="Styled Components" height="200px" src="https://www.hygorchristian.com/static/9995926009e2b2f1ae802a6413a1d9c5/findog_be9406992b.jpg" />](https://findog.com.br)
 
 
 <br />
