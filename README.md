@@ -63,6 +63,8 @@
 
 ---
 
+<br />
+
 ### Nice projects I've done
 
 [<img align="left" alt="Styled Components" width="150px" src="https://www.hygorchristian.com/static/183ed03c6a6a6e283db423f1082659b8/thumbnail_361664e240.jpg" />](https://spotify.hygorchristian.com)
