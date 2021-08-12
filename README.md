@@ -34,8 +34,7 @@
 [<img align="left" alt="Javascript" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/Unofficial_Java_Script_logo_2_1_f8a7ac927b.svg" />]()
 [<img align="left" alt="Expo" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/expo_accc2d653c.png" />]()
 
-<br /><br />
-
+---
 
 ### My favorite libraries:
 
@@ -55,7 +54,11 @@
 [<img align="left" alt="Lottie" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/lottie_a2674af04c.gif" />](https://github.com/airbnb/lottie-ios)
 [<img align="left" alt="Next JS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/nextjs_b18509d09b.svg" />](https://github.com/vercel/next.js/)
 
-<br /><br />
+---
+
+### Nice projects I've done
+
+[<img align="left" alt="Styled Components" width="60px" src="https://www.hygorchristian.com/static/70123d19ed8ee0f95e44c89bacf98016/Screen_Shot_2021_07_11_at_11_54_23_f8e6333fc4.png" />](https://spotify.hygorchristian.com)
 
 ---
 
