@@ -65,8 +65,10 @@
 
 <br />
 
+### Github Stats:
+<img alt="hygorchristian" src="https://github-readme-stats-hygorchristian.vercel.app/api?username=hygorchristian&show_icons=true&hide_border=true" />
 
-[![Hygor's GitHub stats](https://github-readme-stats.vercel.app/api?username=hygorchristian)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
 
 ### Nice projects I've done
