@@ -57,6 +57,8 @@
 
 <br /><br />
 
+---
 
+[![Hygor's GitHub stats](https://github-readme-stats.vercel.app/api?username=hygorchristian)](https://github.com/anuraghazra/github-readme-stats)
 
 
