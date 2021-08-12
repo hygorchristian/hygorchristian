@@ -71,6 +71,10 @@
 <br />
 
 
+### Listening now
+[![Spotify](https://novatorem-hygorchristian.vercel.app/api/spotify)](https://open.spotify.com/user/rushy06)
+
+
 ### Nice projects I've done
 
 [<img align="left" alt="Styled Components" height="200px" src="https://www.hygorchristian.com/static/183ed03c6a6a6e283db423f1082659b8/thumbnail_361664e240.jpg" />](https://spotify.hygorchristian.com)
@@ -78,5 +82,4 @@
 
 
 <br />
-
 
