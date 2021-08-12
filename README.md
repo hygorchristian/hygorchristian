@@ -39,9 +39,21 @@
 
 ### My favorite libraries:
 
-<!-- LIBRARIES-START -->
-[]
-<!-- LIBRARIES-TOOLS-END -->
+[<img align="left" alt="Styled Components" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/styled_f20b2ab956.png" />](https://github.com/styled-components/styled-components)
+[<img align="left" alt="React Router Dom" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/reach_react_router_future_d5a5b933f7.png" />](https://github.com/ReactTraining/react-router)
+[<img align="left" alt="Material UI" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/materialui_cf57e33cca.png" />](https://github.com/mui-org/material-ui)
+[<img align="left" alt="Semantic UI" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/semantic_ui_363bfde368.png" />](https://github.com/Semantic-Org/Semantic-UI)
+[<img align="left" alt="React Navigation" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/react_navigation_5160551945.svg" />](https://github.com/react-navigation/react-navigation)
+[<img align="left" alt="Testing Library" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/testing_9ce3594ace.png" />](https://github.com/testing-library/react-testing-library)
+[<img align="left" alt="Redux Saga" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/redux_saga_b9b7ac97bb.svg" />](https://github.com/redux-saga/redux-saga)
+[<img align="left" alt="Redux" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/redux_f380f40a4a.png" />](https://github.com/reduxjs/redux)
+[<img align="left" alt="React Query" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/react_query_194d6e8e20.svg" />](https://github.com/tannerlinsley/react-query)
+[<img align="left" alt="Ant Design" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/antdesign_ab6f2af5cd.svg" />](https://github.com/ant-design/ant-design)
+[<img align="left" alt="Storybook" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/storybook_9e331423d6.png" />](https://github.com/storybookjs/storybook)
+[<img align="left" alt="Apollo GraphQL" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/apollo_5ecce11099.svg" />](https://github.com/apollographql)
+[<img align="left" alt="GraphQL" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/graphql_3d3ca44142.png" />](https://github.com/graphql)
+[<img align="left" alt="Lottie" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/lottie_a2674af04c.gif" />](https://github.com/airbnb/lottie-ios)
+[<img align="left" alt="Next JS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/nextjs_b18509d09b.svg" />](https://github.com/vercel/next.js/)
 
 <br /><br />
 
