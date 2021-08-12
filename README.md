@@ -19,8 +19,29 @@
 
 ### Languages and Tools:
 
-<!-- LANGUAGES-TOOLS-START -->
-<!-- LANGUAGES-TOOLS-END -->
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/React_icon_df98b0c6da.svg]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/graphql_3d3ca44142.png]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/React_icon_df98b0c6da.svg]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/android_5ed6e0faa9_b17b722b17.svg]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/ios_logo_3d9812bb5a_e8dc4e52de.png]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/aws_b64d0af284_68617ae153.png]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/docker_251dcf5a0b_cb7398e467.png]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/large_postgresql_a1575a46b4_b6d21e143f.png]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/13810373_9b4846112e_064138da8c.png]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/nodejs_logo_91954d49b7_c77f7c3589.png]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/firebase_8582be61bc_c74c98b39e.png]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/Typescript_logo_2020_4caa12b116_c023003da9.svg]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/Unofficial_Java_Script_logo_2_1_f8a7ac927b.svg]()
+[https://s3.sa-east-1.amazonaws.com/hygorchristian.com/expo_accc2d653c.png]()
+
+<br /><br />
+
+
+### My favorite libraries:
+
+<!-- LIBRARIES-START -->
+[]
+<!-- LIBRARIES-TOOLS-END -->
 
 <br /><br />
 
