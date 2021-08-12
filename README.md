@@ -19,20 +19,20 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="React Native" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/React_icon_df98b0c6da.svg" />](lalala)
-[<img align="left" alt="GraphQL" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/graphql_3d3ca44142.png" />](lalala)
-[<img align="left" alt="React JS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/React_icon_df98b0c6da.svg" />](lalala)
-[<img align="left" alt="Android" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/android_5ed6e0faa9_b17b722b17.svg" />](lalala)
-[<img align="left" alt="iOS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/ios_logo_3d9812bb5a_e8dc4e52de.png" />](lalala)
-[<img align="left" alt="AWS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/aws_b64d0af284_68617ae153.png" />](lalala)
-[<img align="left" alt="Docker" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/docker_251dcf5a0b_cb7398e467.png" />](lalala)
-[<img align="left" alt="PostgreSQL" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/large_postgresql_a1575a46b4_b6d21e143f.png" />](lalala)
-[<img align="left" alt="Adonis JS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/13810373_9b4846112e_064138da8c.png" />](lalala)
-[<img align="left" alt="Node JS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/nodejs_logo_91954d49b7_c77f7c3589.png" />](lalala)
-[<img align="left" alt="Firebase" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/firebase_8582be61bc_c74c98b39e.png" />](lalala)
-[<img align="left" alt="Typescript" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/Typescript_logo_2020_4caa12b116_c023003da9.svg" />](lalala)
-[<img align="left" alt="Javascript" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/Unofficial_Java_Script_logo_2_1_f8a7ac927b.svg" />](lalala)
-[<img align="left" alt="Expo" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/expo_accc2d653c.png" />](lalala)
+[<img align="left" alt="React Native" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/React_icon_df98b0c6da.svg" />]
+[<img align="left" alt="GraphQL" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/graphql_3d3ca44142.png" />]
+[<img align="left" alt="React JS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/React_icon_df98b0c6da.svg" />]
+[<img align="left" alt="Android" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/android_5ed6e0faa9_b17b722b17.svg" />]
+[<img align="left" alt="iOS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/ios_logo_3d9812bb5a_e8dc4e52de.png" />]
+[<img align="left" alt="AWS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/aws_b64d0af284_68617ae153.png" />]
+[<img align="left" alt="Docker" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/docker_251dcf5a0b_cb7398e467.png" />]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/large_postgresql_a1575a46b4_b6d21e143f.png" />]
+[<img align="left" alt="Adonis JS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/13810373_9b4846112e_064138da8c.png" />]
+[<img align="left" alt="Node JS" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/nodejs_logo_91954d49b7_c77f7c3589.png" />]
+[<img align="left" alt="Firebase" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/firebase_8582be61bc_c74c98b39e.png" />]
+[<img align="left" alt="Typescript" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/Typescript_logo_2020_4caa12b116_c023003da9.svg" />]
+[<img align="left" alt="Javascript" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/Unofficial_Java_Script_logo_2_1_f8a7ac927b.svg" />]
+[<img align="left" alt="Expo" width="26px" src="https://s3.sa-east-1.amazonaws.com/hygorchristian.com/expo_accc2d653c.png" />]
 
 <br /><br />
 
